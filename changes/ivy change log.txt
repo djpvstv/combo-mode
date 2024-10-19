@@ -1,0 +1,13 @@
+ivysaur change log:
+
+horizontal airspeed has been increased
+stamina removed
+type weakness removed 
+
+dair:
+sweetspot damage:8<12
+sweetspot hitbox size increased
+
+Up special:
+sweetspot priority changed from 4<0 (easier to hit)
+

@@ -1,0 +1,61 @@
+samus changes:
+
+up b/down b vertical height buffed
+shorthop height reduced
+
+jab:
+jab 1 angle:361<80
+bkb:5<30
+jab2 sped up 1.3x
+
+d tilt:
+iasa:40<30
+
+f smash:
+damage:13<16
+bkb:20<40
+(angles adjusted accordingly, up angle +1 damage, down angle -1)
+
+up smash:
+move sped up 1.3x
+
+d smash:
+iasa:47<39
+
+nair:
+hitbox size on sourspot:2<5
+iasa:45<36
+
+up air:
+initial hitbox id 0 set kb increased 30<80 + damage increased 3<5
+sdi multiplier on multihits 1<.4
+multihits lowered 4<3
+no downtime between hits
+final hit damage compensated:4<6
+multihits angle on hitbox id 1+2:80<270
+final hit angle:361<70
+
+bair:
+sweetspot damage: 14<16
+active frames: 2<4
+
+fair:
+move sped up 1.4x
+downtime between hitboxes reduced
+added set knockback on initial hit (5)
+initial hit bkb:20<5
+initial hit angle:85<270 (excluding hitbox id 0)
+multihit angles:80<365 (unique autolink angle)
+sdi multiplier on multihits 1<.4
+
+d throw:
+angle:80<95
+bkb:80<50
+kbg:50<80
+
+upthrow:
+bkb:80<60
+kbg:70<60
+
+charge shot:
+charge time reduced

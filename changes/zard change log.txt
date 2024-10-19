@@ -1,0 +1,27 @@
+charizard changes:
+
+slightly larger
+stamina removed
+type weakness removed
+jump height buffed, glide buffed, air mobility slightly buffed
+
+Jumpsquat:6<5
+
+jab:
+jab 1,2,3 all link better
+jab 3 angles (45, 50, 60, 75) all changed to 80
+
+f smash:
+first hit all angles changed to 270 (hits connect much better)
+
+D smash:
+angle:70<30
+kbg:75<85
+
+up smash:
+iasa:47<40
+2nd hit frames:14-18<12-20 (makes hits link much better)
+
+
+dair:
+dair vs grounded opponents now meteors (70<270)

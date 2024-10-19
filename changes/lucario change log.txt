@@ -1,0 +1,31 @@
+lucario changes:
+aura removed
+
+d tilt:
+angle:60<80
+kbg:130<40
+bkb:23<80
+
+f smash:
+all hits made the same
+damage:16<20
+bkb:23<80
+kbg:92<50
+
+up smash:
+sweetspot only
+kbg:95<115
+
+bair:
+sweetspot only
+bkb:12<30
+
+fair:
+damage:5<7
+bkb:23<35
+kbg:100<60
+
+d throw:
+angle:75<120
+kbg:100<50
+bkb:60<30
