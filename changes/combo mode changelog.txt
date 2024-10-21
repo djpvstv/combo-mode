@@ -1,0 +1,49 @@
+Combo Mode changelog:
+___________________________________________________________________________
+
+Universal changes:
+
+All characters jumpheights are restored, universally increased by .2
+(shorthops remain unchanged)
+
+Semi-standardized jumpsquat, any character with a jumpsquat over 5 has been lowered to 5.
+
+meteor canceling is removed.
+
+all 3 pokemon trainer pokemon (ivy/squirtle/zard) have stamina and type weakness removed.
+__________________________________________________________________________
+
+Character changes:
+
+peach:
+double jump restored.
+
+sonic:
+up b fixed.
+
+lucario:
+aura removed, has been set to always give him a flat 1.3 multiplier regardless of percent.
+
+link:
+up b fixed.
+
+gnw:
+up air windbox removed.
+
+sheik:
+ftilt has been nerfed:
+angle:90<75
+hitlag:.5<1
+sdi multiplier:.5<1
+
+samus:
+up b fixed.
+
+snake:
+jump:+.35
+double jump:-.35
+
+snake is the only exception to the .2 jump buff due to his weird jumping properties, for some reason his double jump is higher than his strangely low initial jump.
+
+bowser:
+fixed up b.
